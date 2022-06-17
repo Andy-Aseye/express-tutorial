@@ -1,0 +1,11 @@
+{
+  "name": "learning-express",
+  "version": "1.0.0",
+  "description": "my-first-tutorial-on-express",
+  "main": "10-file-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Sedzifa",
+  "license": "ISC"
+}
